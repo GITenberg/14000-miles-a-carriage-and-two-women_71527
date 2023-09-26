@@ -1,11 +1,16 @@
 _repo: 14000-miles-a-carriage-and-two-women_71527
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71527-h/images/cover.jpg
 creator:
   author:
     agent_name: Howe, Frances S.
     gutenberg_agent_id: '56271'
     url: http://www.gutenberg.org/2009/agents/56271
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71527#14000-miles-a-carriage-and-two-women
 gutenberg_issued: '2023-08-31'
 identifiers:
   gutenberg: '71527'
